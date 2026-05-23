@@ -32,6 +32,59 @@ theme:
 plugins:
   - search
   - tags
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      languages:
+        - locale: es
+          name: Español
+          build: true
+          default: true
+          site_name: "Hacking Notes"
+          site_description: "Notas públicas de ciberseguridad ofensiva, AI Red Teaming, pentesting, Web/API Security y reporting"
+
+        - locale: en
+          name: English
+          build: true
+          site_name: "Hacking Notes"
+          site_description: "Public notes about offensive security, AI Red Teaming, pentesting, Web/API Security and technical reporting"
+          nav_translations:
+            Inicio: Home
+            Metodología: Methodology
+            Flujo general: General flow
+            Enumeración: Enumeration
+            Arquitectura: Architecture
+            Trust Boundaries: Trust boundaries
+            Evidencias: Evidence
+            Conceptos: Concepts
+            Técnicas: Techniques
+            Vulnerabilidades: Vulnerabilities
+            Prompt Injection Directa: Direct Prompt Injection
+            Prompt Injection Indirecta: Indirect Prompt Injection
+            RAG Data Extraction: RAG Data Extraction
+            Tool Abuse: Tool Abuse
+            SSRF vía Agente: SSRF via Agent
+            Sensitive Information Disclosure: Sensitive Information Disclosure
+            Improper Output Handling: Improper Output Handling
+            Excessive Agency: Excessive Agency
+            Payloads: Payloads
+            Agentes: Agents
+            Herramientas: Tools
+            Burp Suite: Burp Suite
+            Python: Python
+            Docker: Docker
+            curl: curl
+            jq: jq
+            Reporting: Reporting
+            Plantilla de Vulnerabilidad: Vulnerability Template
+            Impacto: Impact
+            Recomendaciones: Recommendations
+            Examen: Exam
+            Checklist de Preparación: Preparation Checklist
+            Checklist de Evidencias: Evidence Checklist
+            Control de Tiempo: Time Management
+            Errores a Evitar: Mistakes to Avoid
 
 markdown_extensions:
   - admonition
@@ -79,9 +132,18 @@ nav:
           - Prompt Injection: payloads/prompt-injection.md
           - RAG: payloads/rag.md
           - Agentes: payloads/agentes.md
-
+          
   - Web & API Security:
-      - Inicio: web-api/index.md
+        - Inicio: web-api/index.md
+        - Metodología: web-api/metodologia.md
+        - Enumeración: web-api/enumeracion.md
+        - Autenticación: web-api/autenticacion.md
+        - Autorización e IDOR: web-api/autorizacion-idor.md
+        - API Testing: web-api/api-testing.md
+        - Business Logic: web-api/business-logic.md
+        - Input Validation: web-api/input-validation.md
+        - Rate Limiting: web-api/rate-limiting.md
+        - Information Disclosure: web-api/information-disclosure.md
 
   - Pentesting:
       - Inicio: pentesting/index.md
