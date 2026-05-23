@@ -103,35 +103,29 @@ markdown_extensions:
 nav:
   - Inicio: index.md
 
-  - Metodología:
-      - Flujo general: metodologia/flujo-ai-red-team.md
-      - Enumeración: metodologia/enumeracion.md
-      - Arquitectura: metodologia/arquitectura.md
-      - Trust Boundaries: metodologia/trust-boundaries.md
-      - Evidencias: metodologia/evidencias.md
-
   - AI Red Teaming:
+      - Inicio: ai-red-teaming/index.md
       - Conceptos:
-          - LLM: conceptos/llm.md
-          - RAG: conceptos/rag.md
-          - Embeddings: conceptos/embeddings.md
-          - Agentes: conceptos/agentes.md
-          - Tool Calling: conceptos/tool-calling.md
+          - LLM: ai-red-teaming/conceptos/llm.md
+          - RAG: ai-red-teaming/conceptos/rag.md
+          - Embeddings: ai-red-teaming/conceptos/embeddings.md
+          - Agentes: ai-red-teaming/conceptos/agentes.md
+          - Tool Calling: ai-red-teaming/conceptos/tool-calling.md
       - Técnicas:
-          - Prompt Injection Directa: tecnicas/prompt-injection-directa.md
-          - Prompt Injection Indirecta: tecnicas/prompt-injection-indirecta.md
-          - RAG Data Extraction: tecnicas/rag-data-extraction.md
-          - Tool Abuse: tecnicas/tool-abuse.md
-          - SSRF vía Agente: tecnicas/ssrf-via-agent.md
+          - Prompt Injection Directa: ai-red-teaming/tecnicas/prompt-injection-directa.md
+          - Prompt Injection Indirecta: ai-red-teaming/tecnicas/prompt-injection-indirecta.md
+          - RAG Data Extraction: ai-red-teaming/tecnicas/rag-data-extraction.md
+          - Tool Abuse: ai-red-teaming/tecnicas/tool-abuse.md
+          - SSRF vía Agente: ai-red-teaming/tecnicas/ssrf-via-agent.md
       - Vulnerabilidades:
-          - Prompt Injection: vulnerabilidades/prompt-injection.md
-          - Sensitive Information Disclosure: vulnerabilidades/sensitive-information-disclosure.md
-          - Improper Output Handling: vulnerabilidades/improper-output-handling.md
-          - Excessive Agency: vulnerabilidades/excessive-agency.md
+          - Prompt Injection: ai-red-teaming/vulnerabilidades/prompt-injection.md
+          - Sensitive Information Disclosure: ai-red-teaming/vulnerabilidades/sensitive-information-disclosure.md
+          - Improper Output Handling: ai-red-teaming/vulnerabilidades/improper-output-handling.md
+          - Excessive Agency: ai-red-teaming/vulnerabilidades/excessive-agency.md
       - Payloads:
-          - Prompt Injection: payloads/prompt-injection.md
-          - RAG: payloads/rag.md
-          - Agentes: payloads/agentes.md
+          - Prompt Injection: ai-red-teaming/payloads/prompt-injection.md
+          - RAG: ai-red-teaming/payloads/rag.md
+          - Agentes: ai-red-teaming/payloads/agentes.md
 
   - Web & API Security:
         - Inicio: web-api/index.md
@@ -144,7 +138,7 @@ nav:
         - Input Validation: web-api/input-validation.md
         - Rate Limiting: web-api/rate-limiting.md
         - Information Disclosure: web-api/information-disclosure.md
-        
+
   - Pentesting:
       - Inicio: pentesting/index.md
       - Active Directory:
@@ -153,6 +147,8 @@ nav:
           - Enumeración AD: pentesting/active-directory/enumeracion.md
           - Kerberos: pentesting/active-directory/kerberos.md
           - BloodHound: pentesting/active-directory/bloodhound.md
+          - AD CS: pentesting/active-directory/adcs.md
+          - Certipy Quick Reference: pentesting/active-directory/certipy.md
 
   - Herramientas:
       - Burp Suite: herramientas/burp-suite.md
