@@ -27,7 +27,10 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install mkdocs-material
+        run: pip install -r requirements.txt
+
+      - name: Build documentation
+        run: mkdocs build
 
       - name: Deploy documentation
         run: mkdocs gh-deploy --force
