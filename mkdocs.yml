@@ -144,13 +144,15 @@ nav:
         - Input Validation: web-api/input-validation.md
         - Rate Limiting: web-api/rate-limiting.md
         - Information Disclosure: web-api/information-disclosure.md
-
+        
   - Pentesting:
       - Inicio: pentesting/index.md
       - Active Directory:
           - Metodología AD: pentesting/active-directory/index.md
           - NetExec Quick Reference: pentesting/active-directory/netexec.md
           - Enumeración AD: pentesting/active-directory/enumeracion.md
+          - Kerberos: pentesting/active-directory/kerberos.md
+          - BloodHound: pentesting/active-directory/bloodhound.md
 
   - Herramientas:
       - Burp Suite: herramientas/burp-suite.md
