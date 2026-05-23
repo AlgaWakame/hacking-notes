@@ -1,7 +1,7 @@
 site_name: Hacking Notes
 site_description: Notas públicas de ciberseguridad ofensiva, AI Red Teaming, pentesting y reporting
 site_author: Algawakame
-site_url: https://algawakame.github.io/osai-notes/
+site_url: https://AlgaWakame.github.io/hacking-notes/
 
 theme:
   name: material
