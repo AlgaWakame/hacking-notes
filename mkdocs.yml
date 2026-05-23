@@ -1,7 +1,7 @@
-site_name: OSAI Notes
-site_description: Notas públicas de preparación para OSAI / AI-300 y AI Red Teaming
-site_author: Ismael de Frutos
-site_url: https://AlgaWakame.github.io/osai-notes/
+site_name: Hacking Notes
+site_description: Notas públicas de ciberseguridad ofensiva, AI Red Teaming, pentesting y reporting
+site_author: Algawakame
+site_url: https://algawakame.github.io/osai-notes/
 
 theme:
   name: material
@@ -49,43 +49,55 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
+
   - Metodología:
-      - Flujo AI Red Team: metodologia/flujo-ai-red-team.md
+      - Flujo general: metodologia/flujo-ai-red-team.md
       - Enumeración: metodologia/enumeracion.md
-      - Arquitectura IA: metodologia/arquitectura.md
+      - Arquitectura: metodologia/arquitectura.md
       - Trust Boundaries: metodologia/trust-boundaries.md
       - Evidencias: metodologia/evidencias.md
-  - Conceptos:
-      - LLM: conceptos/llm.md
-      - RAG: conceptos/rag.md
-      - Embeddings: conceptos/embeddings.md
-      - Agentes: conceptos/agentes.md
-      - Tool Calling: conceptos/tool-calling.md
-  - Técnicas:
-      - Prompt Injection Directa: tecnicas/prompt-injection-directa.md
-      - Prompt Injection Indirecta: tecnicas/prompt-injection-indirecta.md
-      - RAG Data Extraction: tecnicas/rag-data-extraction.md
-      - Tool Abuse: tecnicas/tool-abuse.md
-      - SSRF vía Agente: tecnicas/ssrf-via-agent.md
-  - Vulnerabilidades:
-      - Prompt Injection: vulnerabilidades/prompt-injection.md
-      - Sensitive Information Disclosure: vulnerabilidades/sensitive-information-disclosure.md
-      - Improper Output Handling: vulnerabilidades/improper-output-handling.md
-      - Excessive Agency: vulnerabilidades/excessive-agency.md
-  - Payloads:
-      - Prompt Injection: payloads/prompt-injection.md
-      - RAG: payloads/rag.md
-      - Agentes: payloads/agentes.md
+
+  - AI Red Teaming:
+      - Conceptos:
+          - LLM: conceptos/llm.md
+          - RAG: conceptos/rag.md
+          - Embeddings: conceptos/embeddings.md
+          - Agentes: conceptos/agentes.md
+          - Tool Calling: conceptos/tool-calling.md
+      - Técnicas:
+          - Prompt Injection Directa: tecnicas/prompt-injection-directa.md
+          - Prompt Injection Indirecta: tecnicas/prompt-injection-indirecta.md
+          - RAG Data Extraction: tecnicas/rag-data-extraction.md
+          - Tool Abuse: tecnicas/tool-abuse.md
+          - SSRF vía Agente: tecnicas/ssrf-via-agent.md
+      - Vulnerabilidades:
+          - Prompt Injection: vulnerabilidades/prompt-injection.md
+          - Sensitive Information Disclosure: vulnerabilidades/sensitive-information-disclosure.md
+          - Improper Output Handling: vulnerabilidades/improper-output-handling.md
+          - Excessive Agency: vulnerabilidades/excessive-agency.md
+      - Payloads:
+          - Prompt Injection: payloads/prompt-injection.md
+          - RAG: payloads/rag.md
+          - Agentes: payloads/agentes.md
+
+  - Web & API Security:
+      - Inicio: web-api/index.md
+
+  - Pentesting:
+      - Inicio: pentesting/index.md
+
   - Herramientas:
       - Burp Suite: herramientas/burp-suite.md
       - Python: herramientas/python.md
       - Docker: herramientas/docker.md
       - curl: herramientas/curl.md
       - jq: herramientas/jq.md
+
   - Reporting:
       - Plantilla de Vulnerabilidad: reporting/plantilla-vulnerabilidad.md
       - Impacto: reporting/impacto.md
       - Recomendaciones: reporting/recomendaciones.md
+
   - Examen:
       - Checklist de Preparación: examen/checklist-preparacion.md
       - Checklist de Evidencias: examen/checklist-evidencias.md
