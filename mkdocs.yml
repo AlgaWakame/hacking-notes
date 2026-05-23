@@ -1,7 +1,7 @@
 site_name: OSAI Notes
 site_description: Notas públicas de preparación para OSAI / AI-300 y AI Red Teaming
 site_author: Ismael de Frutos
-site_url: https://algawakame.github.io/osai-notes/
+site_url: https://AlgaWakame.github.io/osai-notes/
 
 theme:
   name: material
