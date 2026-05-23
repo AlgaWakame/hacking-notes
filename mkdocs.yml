@@ -132,7 +132,7 @@ nav:
           - Prompt Injection: payloads/prompt-injection.md
           - RAG: payloads/rag.md
           - Agentes: payloads/agentes.md
-          
+
   - Web & API Security:
         - Inicio: web-api/index.md
         - Metodología: web-api/metodologia.md
@@ -147,6 +147,10 @@ nav:
 
   - Pentesting:
       - Inicio: pentesting/index.md
+      - Active Directory:
+          - Metodología AD: pentesting/active-directory/index.md
+          - NetExec Quick Reference: pentesting/active-directory/netexec.md
+          - Enumeración AD: pentesting/active-directory/enumeracion.md
 
   - Herramientas:
       - Burp Suite: herramientas/burp-suite.md
