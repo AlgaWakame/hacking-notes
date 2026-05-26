@@ -146,7 +146,7 @@ nav:
           - Information Disclosure: web-api/techniques/information-disclosure.md
           - File Upload: web-api/techniques/file-upload.md
           - CORS: web-api/techniques/cors.md
-
+          
       - Technologies:
           - REST API: web-api/technologies/rest-api.md
           - GraphQL: web-api/technologies/graphql.md
@@ -154,6 +154,26 @@ nav:
           - OAuth & OIDC: web-api/technologies/oauth-oidc.md
           - WebSockets: web-api/technologies/websockets.md
           - SOAP & XML: web-api/technologies/soap-xml.md
+
+  - WiFi Auditing:
+      - Inicio: wifi-auditing/index.md
+      - Quick Reference: wifi-auditing/quick-reference.md
+
+      - Tools:
+          - Airgeddon: wifi-auditing/tools/airgeddon.md
+
+      - Techniques:
+          - Reconnaissance: wifi-auditing/techniques/reconnaissance.md
+          - Handshake Capture: wifi-auditing/techniques/handshake-capture.md
+          - PMKID: wifi-auditing/techniques/pmkid.md
+          - WPS: wifi-auditing/techniques/wps.md
+          - Evil Twin: wifi-auditing/techniques/evil-twin.md
+          - Cracking: wifi-auditing/techniques/cracking.md
+
+      - Theory:
+          - 802.11 Basics: wifi-auditing/theory/80211-basics.md
+          - WPA / WPA2 / WPA3: wifi-auditing/theory/wpa-wpa2-wpa3.md
+          - Wireless Adapters: wifi-auditing/theory/wireless-adapters.md
 
   - Pentesting:
       - Inicio: pentesting/index.md
