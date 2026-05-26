@@ -6,6 +6,8 @@ site_url: https://AlgaWakame.github.io/hacking-notes/
 theme:
   name: material
   language: es
+  icon:
+    logo: fontawesome/solid/terminal
   features:
     - navigation.tabs
     - navigation.sections
@@ -128,16 +130,30 @@ nav:
           - Agentes: ai-red-teaming/payloads/agentes.md
 
   - Web & API Security:
-        - Inicio: web-api/index.md
-        - Metodología: web-api/metodologia.md
-        - Enumeración: web-api/enumeracion.md
-        - Autenticación: web-api/autenticacion.md
-        - Autorización e IDOR: web-api/autorizacion-idor.md
-        - API Testing: web-api/api-testing.md
-        - Business Logic: web-api/business-logic.md
-        - Input Validation: web-api/input-validation.md
-        - Rate Limiting: web-api/rate-limiting.md
-        - Information Disclosure: web-api/information-disclosure.md
+      - Inicio: web-api/index.md
+      - Quick Reference: web-api/quick-reference.md
+
+      - Techniques:
+          - API Testing: web-api/techniques/api-testing.md
+          - Enumeration: web-api/techniques/enumeration.md
+          - Authentication: web-api/techniques/authentication.md
+          - Authorization & IDOR: web-api/techniques/authorization-idor.md
+          - Mass Assignment: web-api/techniques/mass-assignment.md
+          - Server-side Parameter Pollution: web-api/techniques/server-side-parameter-pollution.md
+          - Business Logic: web-api/techniques/business-logic.md
+          - Input Validation: web-api/techniques/input-validation.md
+          - Rate Limiting: web-api/techniques/rate-limiting.md
+          - Information Disclosure: web-api/techniques/information-disclosure.md
+          - File Upload: web-api/techniques/file-upload.md
+          - CORS: web-api/techniques/cors.md
+
+      - Technologies:
+          - REST API: web-api/technologies/rest-api.md
+          - GraphQL: web-api/technologies/graphql.md
+          - JWT: web-api/technologies/jwt.md
+          - OAuth & OIDC: web-api/technologies/oauth-oidc.md
+          - WebSockets: web-api/technologies/websockets.md
+          - SOAP & XML: web-api/technologies/soap-xml.md
 
   - Pentesting:
       - Inicio: pentesting/index.md

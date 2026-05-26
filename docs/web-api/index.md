@@ -1,132 +1,100 @@
 # Web & API Security
 
-## Objetivo
+> Guía rápida para refrescar técnicas, comandos y pruebas de seguridad Web/API.
 
-Esta sección recoge notas prácticas sobre seguridad web y APIs para auditorías, laboratorios, CTFs y preparación de certificaciones.
+Esta sección está orientada a consulta práctica. La persona que llega aquí normalmente ya sabe qué quiere probar y necesita localizar rápido:
 
-El objetivo no es almacenar writeups completos, sino disponer de una guía rápida para consultar:
+- comandos;
+- payloads;
+- técnicas;
+- señales de vulnerabilidad;
+- evidencias mínimas;
+- falsos positivos;
+- notas por tecnología.
 
-- qué revisar;
-- cómo enumerar;
-- qué hipótesis plantear;
-- cómo probar vulnerabilidades;
-- qué evidencias guardar;
-- cómo reportar los hallazgos.
+---
 
-## Flujo general
-
-```text
-Reconocimiento → Enumeración → Autenticación → Autorización → Lógica de negocio → Evidencia → Reporting
-```
-
-## Áreas principales
+## Acceso rápido
 
 <div class="grid cards" markdown>
 
--   🔎 **Enumeración**
+-   ⚡ **Quick Reference**
 
     ---
 
-    Identificación de tecnologías, rutas, endpoints, parámetros, roles, ficheros JavaScript y documentación expuesta.
+    Snippets rápidos de `curl`, `ffuf`, `jq`, Burp, métodos HTTP, headers, JSON y evidencias.
 
-    [Abrir →](enumeracion.md)
+    [Abrir →](quick-reference.md)
 
--   🔐 **Autenticación**
-
-    ---
-
-    Login, logout, registro, recuperación de contraseña, MFA, sesiones, tokens y enumeración de usuarios.
-
-    [Abrir →](autenticacion.md)
-
--   🧱 **Autorización e IDOR**
+-   🧪 **Techniques**
 
     ---
 
-    Acceso horizontal, acceso vertical, modificación de identificadores, control de permisos y endpoints expuestos.
+    Guías prácticas para probar IDOR, authentication, mass assignment, SSPP, business logic, uploads, CORS y más.
 
-    [Abrir →](autorizacion-idor.md)
+    [Abrir →](techniques/api-testing.md)
 
--   🔌 **API Testing**
-
-    ---
-
-    Métodos HTTP, validación server-side, mass assignment, errores, versionado, rate limiting y autorización por objeto.
-
-    [Abrir →](api-testing.md)
-
--   🧠 **Business Logic**
+-   🧠 **Technologies**
 
     ---
 
-    Manipulación de flujos, precios, estados, límites, transacciones, condiciones y procesos multi-paso.
+    Notas concretas sobre REST, GraphQL, JWT, OAuth/OIDC, WebSockets y SOAP/XML.
 
-    [Abrir →](business-logic.md)
-
--   📝 **Reporting**
-
-    ---
-
-    Cómo transformar pruebas técnicas en vulnerabilidades claras, reproducibles y con impacto.
-
-    [Abrir →](../reporting/plantilla-vulnerabilidad.md)
+    [Abrir →](technologies/rest-api.md)
 
 </div>
 
-## Checklist rápido
+---
 
-### Antes de probar
+## Técnicas principales
 
-- [ ] Confirmar alcance.
-- [ ] Identificar dominios y subdominios autorizados.
-- [ ] Identificar roles de usuario disponibles.
-- [ ] Preparar Burp Suite.
-- [ ] Crear usuarios de prueba si aplica.
-- [ ] Separar evidencias por funcionalidad.
-- [ ] No realizar pruebas destructivas.
+| Técnica | Ir a |
+|---|---|
+| API Testing general | [API Testing](techniques/api-testing.md) |
+| Enumeración Web/API | [Enumeration](techniques/enumeration.md) |
+| Login, sesiones, MFA, JWT | [Authentication](techniques/authentication.md) |
+| IDOR / Broken Object Level Authorization | [Authorization & IDOR](techniques/authorization-idor.md) |
+| Campos ocultos / Mass Assignment | [Mass Assignment](techniques/mass-assignment.md) |
+| Server-side Parameter Pollution | [SSPP](techniques/server-side-parameter-pollution.md) |
+| Lógica de negocio | [Business Logic](techniques/business-logic.md) |
+| Validación de entradas | [Input Validation](techniques/input-validation.md) |
+| Rate limiting | [Rate Limiting](techniques/rate-limiting.md) |
+| Information Disclosure | [Information Disclosure](techniques/information-disclosure.md) |
+| File Upload | [File Upload](techniques/file-upload.md) |
+| CORS | [CORS](techniques/cors.md) |
 
-### Durante la prueba
+---
 
-- [ ] Guardar requests relevantes.
-- [ ] Comparar usuario A contra usuario B.
-- [ ] Probar frontend vs backend.
-- [ ] Modificar parámetros controlados por cliente.
-- [ ] Revisar respuestas de error.
-- [ ] Confirmar impacto real.
-- [ ] Documentar pasos mínimos reproducibles.
-
-### Al reportar
-
-- [ ] Describir causa raíz.
-- [ ] Explicar impacto.
-- [ ] Incluir evidencia mínima.
-- [ ] Evitar ruido técnico innecesario.
-- [ ] Proponer mitigaciones concretas.
-- [ ] Indicar severidad y confianza.
-
-## Vulnerabilidades frecuentes
-
-| Vulnerabilidad | Dónde buscar | Evidencia mínima |
-|---|---|---|
-| Broken Access Control | Endpoints autenticados, objetos de otros usuarios | Request/response comparando usuarios |
-| IDOR | Parámetros numéricos, UUIDs, referencias a objetos | Acceso a objeto no autorizado |
-| User Enumeration | Login, registro, reset password | Respuestas distintas |
-| Mass Assignment | APIs JSON con objetos completos | Campo añadido/modificado aceptado |
-| Business Logic Flaw | Flujos multi-paso, pagos, límites | Secuencia reproducible |
-| Information Disclosure | Errores, cabeceras, logs, responses | Dato sensible o interno expuesto |
-| Rate Limit Missing | Login, OTP, búsqueda, APIs caras | Repetición sin bloqueo |
-| Input Validation | Parámetros, formularios, JSON, uploads | Backend acepta valor inválido |
-
-## Principio de trabajo
+## Flujo mínimo de prueba
 
 ```text
-No asumir vulnerabilidad → Formular hipótesis → Probar de forma controlada → Confirmar impacto → Documentar
+Endpoint → Método → Auth → Parámetros → Autorización → Validación → Impacto → Evidencia
 ```
 
-## Relacionado
+---
 
-- [Metodología](metodologia.md)
-- [Enumeración](enumeracion.md)
-- [Autorización e IDOR](autorizacion-idor.md)
-- [API Testing](api-testing.md)
-- [Plantilla de vulnerabilidad](../reporting/plantilla-vulnerabilidad.md)
+## Variables base
+
+```bash
+export BASE_URL="https://example.com"
+export API_URL="https://example.com/api"
+export TOKEN="eyJhbGciOi..."
+export USER_A_TOKEN="token-a"
+export USER_B_TOKEN="token-b"
+export ENDPOINT="$API_URL/users/123"
+```
+
+---
+
+## Evidencia mínima
+
+```text
+Endpoint:
+Método:
+Usuario/Rol:
+Request original:
+Request modificada:
+Response:
+Impacto:
+Conclusión:
+```
