@@ -96,12 +96,18 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
   - attr_list
   - md_in_html
   - tables
   - toc:
       permalink: true
 
+extra_javascript:
+  - assets/javascripts/checklists.js
+  
 nav:
   - Inicio: index.md
 
@@ -114,6 +120,11 @@ nav:
           - Agentes: ai-red-teaming/conceptos/agentes.md
           - Tool Calling: ai-red-teaming/conceptos/tool-calling.md
       - Técnicas:
+          - Inicio: ai-red-teaming/tecnicas/index.md
+          - Reconocimiento:
+              - Guía rápida: ai-red-teaming/tecnicas/reconocimiento/index.md
+              - Reconocimiento pasivo: ai-red-teaming/tecnicas/reconocimiento/pasivo.md
+              - Reconocimiento activo: ai-red-teaming/tecnicas/reconocimiento/activo.md
           - Prompt Injection Directa: ai-red-teaming/tecnicas/prompt-injection-directa.md
           - Prompt Injection Indirecta: ai-red-teaming/tecnicas/prompt-injection-indirecta.md
           - RAG Data Extraction: ai-red-teaming/tecnicas/rag-data-extraction.md
