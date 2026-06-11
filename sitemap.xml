@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/agentes/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/agentes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/agentes/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/embeddings/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/embeddings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/embeddings/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/llm/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/llm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/llm/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/rag/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/rag/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/rag/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/tool-calling/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/tool-calling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/tool-calling/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/agentes/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/agentes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/agentes/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/prompt-injection/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/prompt-injection/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/prompt-injection/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/rag/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/rag/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/rag/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/prompt-injection-directa/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/prompt-injection-directa/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/prompt-injection-directa/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/prompt-injection-indirecta/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/prompt-injection-indirecta/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/prompt-injection-indirecta/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/rag-data-extraction/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/rag-data-extraction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/rag-data-extraction/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/ssrf-via-agent/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/ssrf-via-agent/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/ssrf-via-agent/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/tool-abuse/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/tool-abuse/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/tool-abuse/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/activo/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/activo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/activo/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/pasivo/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/pasivo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/pasivo/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/excessive-agency/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/excessive-agency/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/excessive-agency/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/improper-output-handling/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/improper-output-handling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/improper-output-handling/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/prompt-injection/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/prompt-injection/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/prompt-injection/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/sensitive-information-disclosure/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/sensitive-information-disclosure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/sensitive-information-disclosure/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/examen/checklist-evidencias/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/examen/checklist-evidencias/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/examen/checklist-evidencias/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/examen/checklist-preparacion/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/examen/checklist-preparacion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/examen/checklist-preparacion/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/examen/control-tiempo/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/examen/control-tiempo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/examen/control-tiempo/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/examen/errores-a-evitar/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/examen/errores-a-evitar/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/examen/errores-a-evitar/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/herramientas/burp-suite/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/burp-suite/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/burp-suite/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/herramientas/curl/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/curl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/curl/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/herramientas/docker/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/docker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/docker/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/herramientas/jq/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/jq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/jq/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/herramientas/python/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/python/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/python/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/pentesting/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/adcs/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/adcs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/adcs/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/bloodhound/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/bloodhound/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/bloodhound/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/certipy/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/certipy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/certipy/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/enumeracion/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/enumeracion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/enumeracion/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/kerberos/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/kerberos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/kerberos/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/netexec/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/netexec/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/netexec/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/reporting/impacto/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/reporting/impacto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/reporting/impacto/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/reporting/plantilla-vulnerabilidad/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/reporting/plantilla-vulnerabilidad/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/reporting/plantilla-vulnerabilidad/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/reporting/recomendaciones/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/reporting/recomendaciones/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/reporting/recomendaciones/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/metodologia/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/metodologia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/metodologia/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/quick-reference/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/quick-reference/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/quick-reference/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/api-testing/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/api-testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/api-testing/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/authentication/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/authentication/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/authentication/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/authorization-idor/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/authorization-idor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/authorization-idor/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/business-logic/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/business-logic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/business-logic/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/cors/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/cors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/cors/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/enumeration/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/enumeration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/enumeration/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/file-upload/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/file-upload/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/file-upload/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/information-disclosure/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/information-disclosure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/information-disclosure/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/input-validation/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/input-validation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/input-validation/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/mass-assignment/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/mass-assignment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/mass-assignment/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/rate-limiting/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/rate-limiting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/rate-limiting/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/techniques/server-side-parameter-pollution/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/server-side-parameter-pollution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/server-side-parameter-pollution/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/technologies/graphql/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/graphql/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/graphql/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/technologies/jwt/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/jwt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/jwt/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/technologies/oauth-oidc/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/oauth-oidc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/oauth-oidc/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/technologies/rest-api/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/rest-api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/rest-api/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/technologies/soap-xml/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/soap-xml/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/soap-xml/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/web-api/technologies/websockets/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/websockets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/websockets/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/quick-reference/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/quick-reference/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/quick-reference/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/cracking/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/cracking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/cracking/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/evil-twin/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/evil-twin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/evil-twin/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/handshake-capture/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/handshake-capture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/handshake-capture/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/pmkid/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/pmkid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/pmkid/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/reconnaissance/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/reconnaissance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/reconnaissance/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/wps/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/wps/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/wps/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/80211-basics/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/80211-basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/80211-basics/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/wireless-adapters/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/wireless-adapters/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/wireless-adapters/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/wpa-wpa2-wpa3/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/wpa-wpa2-wpa3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/wpa-wpa2-wpa3/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/wifi-auditing/tools/airgeddon/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/tools/airgeddon/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/tools/airgeddon/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/agentes/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/agentes/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/agentes/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/embeddings/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/embeddings/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/embeddings/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/llm/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/llm/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/llm/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/rag/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/rag/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/rag/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/tool-calling/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/conceptos/tool-calling/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/conceptos/tool-calling/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/agentes/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/agentes/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/agentes/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/prompt-injection/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/prompt-injection/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/prompt-injection/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/rag/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/payloads/rag/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/payloads/rag/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/prompt-injection-directa/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/prompt-injection-directa/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/prompt-injection-directa/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/prompt-injection-indirecta/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/prompt-injection-indirecta/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/prompt-injection-indirecta/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/rag-data-extraction/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/rag-data-extraction/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/rag-data-extraction/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/ssrf-via-agent/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/ssrf-via-agent/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/ssrf-via-agent/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/tool-abuse/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/tool-abuse/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/tool-abuse/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/activo/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/activo/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/activo/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/pasivo/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/tecnicas/reconocimiento/pasivo/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/tecnicas/reconocimiento/pasivo/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/excessive-agency/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/excessive-agency/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/excessive-agency/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/improper-output-handling/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/improper-output-handling/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/improper-output-handling/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/prompt-injection/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/prompt-injection/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/prompt-injection/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/sensitive-information-disclosure/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/ai-red-teaming/vulnerabilidades/sensitive-information-disclosure/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/ai-red-teaming/vulnerabilidades/sensitive-information-disclosure/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/examen/checklist-evidencias/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/examen/checklist-evidencias/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/examen/checklist-evidencias/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/examen/checklist-preparacion/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/examen/checklist-preparacion/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/examen/checklist-preparacion/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/examen/control-tiempo/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/examen/control-tiempo/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/examen/control-tiempo/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/examen/errores-a-evitar/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/examen/errores-a-evitar/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/examen/errores-a-evitar/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/herramientas/burp-suite/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/burp-suite/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/burp-suite/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/herramientas/curl/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/curl/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/curl/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/herramientas/docker/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/docker/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/docker/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/herramientas/jq/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/jq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/jq/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/herramientas/python/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/herramientas/python/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/herramientas/python/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/pentesting/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/adcs/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/adcs/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/adcs/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/bloodhound/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/bloodhound/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/bloodhound/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/certipy/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/certipy/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/certipy/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/enumeracion/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/enumeracion/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/enumeracion/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/kerberos/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/kerberos/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/kerberos/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/netexec/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/pentesting/active-directory/netexec/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/pentesting/active-directory/netexec/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/reporting/impacto/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/reporting/impacto/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/reporting/impacto/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/reporting/plantilla-vulnerabilidad/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/reporting/plantilla-vulnerabilidad/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/reporting/plantilla-vulnerabilidad/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/reporting/recomendaciones/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/reporting/recomendaciones/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/reporting/recomendaciones/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/metodologia/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/metodologia/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/metodologia/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/quick-reference/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/quick-reference/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/quick-reference/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/api-testing/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/api-testing/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/api-testing/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/authentication/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/authentication/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/authentication/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/authorization-idor/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/authorization-idor/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/authorization-idor/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/business-logic/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/business-logic/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/business-logic/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/cors/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/cors/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/cors/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/enumeration/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/enumeration/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/enumeration/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/file-upload/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/file-upload/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/file-upload/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/information-disclosure/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/information-disclosure/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/information-disclosure/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/input-validation/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/input-validation/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/input-validation/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/mass-assignment/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/mass-assignment/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/mass-assignment/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/rate-limiting/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/rate-limiting/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/rate-limiting/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/server-side-parameter-pollution/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/techniques/server-side-parameter-pollution/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/techniques/server-side-parameter-pollution/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/graphql/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/graphql/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/graphql/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/jwt/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/jwt/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/jwt/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/oauth-oidc/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/oauth-oidc/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/oauth-oidc/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/rest-api/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/rest-api/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/rest-api/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/soap-xml/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/soap-xml/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/soap-xml/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/websockets/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/web-api/technologies/websockets/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/web-api/technologies/websockets/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/quick-reference/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/quick-reference/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/quick-reference/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/cracking/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/cracking/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/cracking/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/evil-twin/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/evil-twin/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/evil-twin/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/handshake-capture/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/handshake-capture/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/handshake-capture/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/pmkid/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/pmkid/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/pmkid/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/reconnaissance/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/reconnaissance/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/reconnaissance/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/wps/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/techniques/wps/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/techniques/wps/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/80211-basics/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/80211-basics/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/80211-basics/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/wireless-adapters/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/wireless-adapters/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/wireless-adapters/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/wpa-wpa2-wpa3/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/theory/wpa-wpa2-wpa3/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/theory/wpa-wpa2-wpa3/"/>
+    </url>
+    <url>
+        <loc>https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/tools/airgeddon/</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://AlgaWakame.github.io/hacking-notes/en/wifi-auditing/tools/airgeddon/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://AlgaWakame.github.io/hacking-notes/wifi-auditing/tools/airgeddon/"/>
+    </url>
+</urlset>
